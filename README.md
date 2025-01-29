@@ -1,6 +1,7 @@
 # 🎮 Dodge It
 
-A simple arcade-style game where you dodge falling obstacles to achieve the highest score possible.
+A simple arcade-style game based on Pygame library.
+In this game the player has to dodge the bullets that comes vertically and collect the points, every move made by the player will cause him to grow more and more and makes it difficult to dodge the bullets.
 
 ## 🚀 Installation
 
